@@ -1,4 +1,5 @@
-from . import output
+import output
+
 
 litio = {
     'output': {
