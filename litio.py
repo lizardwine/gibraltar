@@ -1,4 +1,4 @@
-import utils.output as output
+from .utils import output
 
 
 litio = {
